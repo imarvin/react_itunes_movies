@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_itunes_movies/static/css/main.41e748cb.chunk.css",
-    "main.js": "/react_itunes_movies/static/js/main.39dca828.chunk.js",
-    "main.js.map": "/react_itunes_movies/static/js/main.39dca828.chunk.js.map",
-    "runtime-main.js": "/react_itunes_movies/static/js/runtime-main.86682907.js",
-    "runtime-main.js.map": "/react_itunes_movies/static/js/runtime-main.86682907.js.map",
-    "static/js/2.bc35a2e0.chunk.js": "/react_itunes_movies/static/js/2.bc35a2e0.chunk.js",
-    "static/js/2.bc35a2e0.chunk.js.map": "/react_itunes_movies/static/js/2.bc35a2e0.chunk.js.map",
-    "index.html": "/react_itunes_movies/index.html",
-    "precache-manifest.9de1a60a806e3782a5175b38874e7f20.js": "/react_itunes_movies/precache-manifest.9de1a60a806e3782a5175b38874e7f20.js",
-    "service-worker.js": "/react_itunes_movies/service-worker.js",
-    "static/css/main.41e748cb.chunk.css.map": "/react_itunes_movies/static/css/main.41e748cb.chunk.css.map",
-    "static/js/2.bc35a2e0.chunk.js.LICENSE": "/react_itunes_movies/static/js/2.bc35a2e0.chunk.js.LICENSE"
+    "main.css": "https://imarvin.github.io/react_itunes_movies/static/css/main.41e748cb.chunk.css",
+    "main.js": "https://imarvin.github.io/react_itunes_movies/static/js/main.f2c65797.chunk.js",
+    "main.js.map": "https://imarvin.github.io/react_itunes_movies/static/js/main.f2c65797.chunk.js.map",
+    "runtime-main.js": "https://imarvin.github.io/react_itunes_movies/static/js/runtime-main.056b5920.js",
+    "runtime-main.js.map": "https://imarvin.github.io/react_itunes_movies/static/js/runtime-main.056b5920.js.map",
+    "static/js/2.bc35a2e0.chunk.js": "https://imarvin.github.io/react_itunes_movies/static/js/2.bc35a2e0.chunk.js",
+    "static/js/2.bc35a2e0.chunk.js.map": "https://imarvin.github.io/react_itunes_movies/static/js/2.bc35a2e0.chunk.js.map",
+    "index.html": "https://imarvin.github.io/react_itunes_movies/index.html",
+    "precache-manifest.ac417ae1ee733df9ee6422b7ff8679ea.js": "https://imarvin.github.io/react_itunes_movies/precache-manifest.ac417ae1ee733df9ee6422b7ff8679ea.js",
+    "service-worker.js": "https://imarvin.github.io/react_itunes_movies/service-worker.js",
+    "static/css/main.41e748cb.chunk.css.map": "https://imarvin.github.io/react_itunes_movies/static/css/main.41e748cb.chunk.css.map",
+    "static/js/2.bc35a2e0.chunk.js.LICENSE": "https://imarvin.github.io/react_itunes_movies/static/js/2.bc35a2e0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.86682907.js",
+    "static/js/runtime-main.056b5920.js",
     "static/js/2.bc35a2e0.chunk.js",
     "static/css/main.41e748cb.chunk.css",
-    "static/js/main.39dca828.chunk.js"
+    "static/js/main.f2c65797.chunk.js"
   ]
 }
