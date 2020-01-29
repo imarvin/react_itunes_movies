@@ -1,3 +1,37 @@
+## Quick Start
+
+```
+Make sure you have Node.js installed (https://nodejs.org).
+
+Open terminal and run the following commands inside the app folder(/react_itunes_movies)
+
+1. npm install 
+2. npm start
+
+Your browser should automatically open to the following url: 
+http://localhost:3000
+
+
+bash
+# Install dependencies for server
+npm install
+
+# Install dependencies for client
+npm run client-install
+
+# Run the client & server with concurrently
+npm run dev
+
+# Run the Express server only
+npm run server
+
+# Run the React client only
+npm run client
+
+# Server runs on http://localhost:5000 and client on http://localhost:3000
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
