@@ -1,0 +1,53 @@
+.search {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+  border-radius: .5rem;
+  margin: 1rem auto;
+  width: 480px;
+  min-height: 80vh;
+
+  h1, h2 {
+    margin: 1rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    font-weight: normal;
+    border-radius: .25rem;
+  }
+
+  &__header {
+    background: #657786;
+    color: #fff;
+    border-radius: .5rem .5rem 0 0;
+    padding: 1rem;
+    text-align: center;
+  }
+
+  &__main {
+    text-align: left;
+    padding: 1rem;
+
+    h1, h2 {
+      color: #657786;
+    }
+  }
+
+  &__list {
+    list-style-type: auto;
+    list-style-position: outside;
+    padding: 1rem;
+    text-align: left;
+
+    &.results {
+      
+      & [data-fav=true] {
+        display: none;
+      }
+    }
+  }
+
+  &__item {
+    margin: 1rem;
+  }
+}
