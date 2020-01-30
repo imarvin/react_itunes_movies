@@ -1,3 +1,11 @@
+This is a simple react app that uses the itunes search api to query for movies titles.  There are no backend servers(ie Express) needed.  However, you still need to npm install and start the localhost.
+
+
+iTunes Search Api docs:
+https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+
+
+
 ## Quick Start
 
 ```
