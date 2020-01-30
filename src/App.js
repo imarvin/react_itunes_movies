@@ -10,8 +10,8 @@ function App() {
   return (
     <div className="search">
       <SearchContextProvider>
-        <Header />
         <FavContextProvider>
+          <Header />
           <main>
             <SearchResults />
             <Favs />
