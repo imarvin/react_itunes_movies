@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0aed200d8f32dbeed63627fb9e6efd75",
+    "revision": "4f23dd35c0af8330d6cae8ef4987f756",
     "url": "/react_itunes_movies/index.html"
   },
   {
-    "revision": "07716b5c882094b03be9",
+    "revision": "a6d6fe2e8824318bd7b7",
     "url": "/react_itunes_movies/static/css/main.fc3c7235.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_itunes_movies/static/js/2.72943ec6.chunk.js.LICENSE"
   },
   {
-    "revision": "07716b5c882094b03be9",
-    "url": "/react_itunes_movies/static/js/main.740b64e4.chunk.js"
+    "revision": "a6d6fe2e8824318bd7b7",
+    "url": "/react_itunes_movies/static/js/main.af24d3c3.chunk.js"
   },
   {
     "revision": "c37caba8e16a56d660df",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_itunes_movies/static/css/main.fc3c7235.chunk.css",
-    "main.js": "/react_itunes_movies/static/js/main.740b64e4.chunk.js",
-    "main.js.map": "/react_itunes_movies/static/js/main.740b64e4.chunk.js.map",
+    "main.js": "/react_itunes_movies/static/js/main.af24d3c3.chunk.js",
+    "main.js.map": "/react_itunes_movies/static/js/main.af24d3c3.chunk.js.map",
     "runtime-main.js": "/react_itunes_movies/static/js/runtime-main.86682907.js",
     "runtime-main.js.map": "/react_itunes_movies/static/js/runtime-main.86682907.js.map",
     "static/js/2.72943ec6.chunk.js": "/react_itunes_movies/static/js/2.72943ec6.chunk.js",
     "static/js/2.72943ec6.chunk.js.map": "/react_itunes_movies/static/js/2.72943ec6.chunk.js.map",
     "index.html": "/react_itunes_movies/index.html",
-    "precache-manifest.1de9ad566d519943e63ce48d1706a13f.js": "/react_itunes_movies/precache-manifest.1de9ad566d519943e63ce48d1706a13f.js",
+    "precache-manifest.f0038f4836ecdbc7da1231706aff2c4c.js": "/react_itunes_movies/precache-manifest.f0038f4836ecdbc7da1231706aff2c4c.js",
     "service-worker.js": "/react_itunes_movies/service-worker.js",
     "static/css/main.fc3c7235.chunk.css.map": "/react_itunes_movies/static/css/main.fc3c7235.chunk.css.map",
     "static/js/2.72943ec6.chunk.js.LICENSE": "/react_itunes_movies/static/js/2.72943ec6.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.86682907.js",
     "static/js/2.72943ec6.chunk.js",
     "static/css/main.fc3c7235.chunk.css",
-    "static/js/main.740b64e4.chunk.js"
+    "static/js/main.af24d3c3.chunk.js"
   ]
 }
