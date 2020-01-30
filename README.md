@@ -5,6 +5,10 @@ iTunes Search Api docs:
 https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 
+To Do:
+1. Add filter for max results (currently 10).
+2. Add a modal card to show movie details.
+3. Improve UI/UX.
 
 ## Quick Start
 
